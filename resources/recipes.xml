@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+  <recipe>
+    <title>Vegansk shakshuka med scrambled tofu</title>
+    <preptime>20</preptime>
+    <cooktime>50</cooktime>
+    <totaltime>70</totaltime>
+    <url>vegansk-shakshuka-med-scrambled-tofu</url>
+    <imageurl>https://img.koket.se/desktop/vegansk-shakshuka-med-scrambled-tofu.jpg</imageurl>
+    <description>Shakshuka är en traditionell frukost/brunch i framför allt Israel men också i Nordafrika. Det här är min version utan animalier. /SebastianReceptet är ur boken Vegansk snabbmat - streetfood för alla av Sebastian Schauermann, Norstedts.
+    </description>
+    <category>Judisk-Japansk Fusion</category>
+    <rating>4/5</rating>
+    <instructionList>
+      <instruction>Värm ugnen till 180 grader, varmluft.</instruction>
+      <instruction>Fräs kycklingen på medelvärme tills den får lite färg runtom i cirka 5 minuter. Salta och peppra.</instruction>
+      <instruction>Lägg över i en ugnsform.Strimla de soltorkade tomaterna.</instruction>
+      <instruction>Skala och finhacka vitlöken. Finhacka chilin.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>1 gul lök, hackad 1 klyfta vitlök</ingredient>
+      <ingredient>hackad 300 g paprika, tärnad i olika färger</ingredient>
+      <ingredient>1 tsk torkad chipotle</ingredient>
+      <ingredient>1 tsk malen spiskummin</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <commentID>1</commentID>
+        <username>Testare 1</username>
+        <rating>11</rating>
+        <text>Jag tycker lite illa om detta receptet</text>
+      </comment>
+      <comment>
+        <commentID>2</commentID>
+        <username>Testare 2</username>
+        <rating>22</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <commentID>3</commentID>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    <comment><commentID>1542314419915</commentID><username>melker</username><rating>5</rating><text>test</text></comment><comment><commentID>1542381631110</commentID><username>melker</username><rating>5</rating><text>hej här kommer ett test till</text></comment></commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Vegoburgare med potatisklyftor och srirachamajonnäs</title>
+    <preptime>25</preptime>
+    <cooktime>15</cooktime>
+    <totaltime>70</totaltime>
+    <url>vegoburgare-med-potatisklyftor-och-srirachamajonnas</url>
+    <imageurl>https://img.koket.se/desktopx2/vegoburgare-med-potatisklyftor-och-srirachamajonnas.jpg</imageurl>
+    <description>Vegetariska burgare gjorda på zucchini, mandel och ost serverade med het chilimajo och klyftpotatis. Välj gärna det asiatiska ströbrödet panko till paneringen för extra frasiga burgare.
+    </description>
+    <category>Amerikanskt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Sätt ugnen på 225 grader. Börja med att klyfta potatisen. Lägg i en ugnssäker form och vänd i olivolja, salt och peppar. Tillaga i ugnen i 25 minuter.</instruction>
+      <instruction>Riv zucchinin grovt. Salta och låt stå i 10 minuter. Krama sedan ur all vätska.</instruction>
+      <instruction>Knäck äggen i en bunke och vispa ihop med soja och riven vitlök. Häll på 1,5 dl ströbröd och låt svälla i 5 minuter.</instruction>
+      <instruction>Lägg mandel i en mixer och kör till smulor. Häll över i bunken och blanda i urkramad zucchini, riven ost och svartpeppar. Låt smeten vila i 10 minuter.</instruction>
+      <instruction>Rör samman alla ingredienser till dressingen.</instruction>
+      <instruction>Forma smeten till 4 biffar. Vänd i ströbröd och stek i smör och olja till gyllene på båda sidor.</instruction>
+      <instruction>Värm hamburgarbröden i ugnen i några minuter. Lägg i vegoburgarna, dressing och det gröna. Servera med den rostade potatisen.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>900 g mjölig potatis</ingredient>
+      <ingredient>3 msk olivolja</ingredient>
+      <ingredient>salt</ingredient>
+      <ingredient>peppar</ingredient>
+      <ingredient>200 g zucchini (1 liten)</ingredient>
+      <ingredient>2 dl sötmandel</ingredient>
+      <ingredient>3 dl riven prästost</ingredient>
+      <ingredient>2 klyftor vitlök, rivna</ingredient>
+      <ingredient>2 ägg</ingredient>
+      <ingredient>1 msk japansk soja</ingredient>
+      <ingredient>1,5 dl ströbröd</ingredient>
+      <ingredient>ströbröd till panering, gärna panko</ingredient>
+      <ingredient>smör</ingredient>
+      <ingredient>olja</ingredient>
+      <ingredient>1,5 dl majonnäs</ingredient>
+      <ingredient>olja</ingredient>
+      <ingredient>3 msk ketchup</ingredient>
+      <ingredient>1 klyfta vitlök, riven</ingredient>
+      <ingredient>1-4 tsk sriracha (beroende på hur het dressing man vill ha)</ingredient>
+      <ingredient>4 hamburgarbröd (gärna briochebröd)</ingredient>
+      <ingredient>4 krispiga salladsblad</ingredient>
+      <ingredient>2 tomater, skivade</ingredient>
+      <ingredient>2 ättiksgurkor, skivade</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <commentID>4</commentID>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <commentID>5</commentID>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <commentID>6</commentID>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Palak paneer med halloumi</title>
+    <preptime>25</preptime>
+    <cooktime>15</cooktime>
+    <totaltime>70</totaltime>
+    <url>palak-paneer-med-halloumi</url>
+    <imageurl>https://img.koket.se/desktopx2/palak-paneer-med-halloumi.jpg</imageurl>
+    <description>Gör en indisk klassiker - palak paneer med halloumi! Busenkel att göra och riktigt gott.</description>
+    <category>Indiskt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Värm ugnen till 180 grader, varmluft.</instruction>
+      <instruction>Fräs kycklingen på medelvärme tills den får lite färg runtom i cirka 5 minuter. Salta och peppra.</instruction>
+      <instruction>Lägg över i en ugnsform.Strimla de soltorkade tomaterna.</instruction>
+      <instruction>Skala och finhacka vitlöken. Finhacka chilin.</instruction>
+      <instruction>Fräs tomaterna, vitlöken och chilin i cirka 2 minuter, tills det börjar dofta härligt.</instruction>
+      <instruction>Krydda med timjan och oregano och häll i buljongen.</instruction>
+      <instruction>Tillsätt grädden och parmesanosten. Låt det sjuda försiktigt tills osten smälter.</instruction>
+      <instruction>Skeda såsen över kycklingen i formen. Grädda i mitten av ugnen i cirka 15 minuter.</instruction>
+      <instruction>Dela körsbärstomaterna i halvor. Plocka basilikabladen.</instruction>
+      <instruction>Ta ut formen. Lägg ut körsbärstomaterna i formen och toppa med färsk basilika.</instruction>
+      <instruction>Servera gratängen direkt med pasta</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>ris 1 schalottenlök</ingredient>
+      <ingredient>2 vitlöksklyftor</ingredient>
+      <ingredient>salt</ingredient>
+      <ingredient>peppar</ingredient>
+      <ingredient>200 g zucchini (1 liten)</ingredient>
+      <ingredient>2 dl sötmandel</ingredient>
+      <ingredient>3 dl riven prästost</ingredient>
+      <ingredient>2 klyftor vitlök, rivna</ingredient>
+      <ingredient>2 ägg</ingredient>
+      <ingredient>1 msk japansk soja</ingredient>
+      <ingredient>1,5 dl ströbröd</ingredient>
+      <ingredient>ströbröd till panering, gärna panko</ingredient>
+      <ingredient>smör</ingredient>
+      <ingredient>olja</ingredient>
+      <ingredient>1,5 dl majonnäs</ingredient>
+      <ingredient>olja</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <commentID>7</commentID>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <commentID>8</commentID>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <commentID>9</commentID>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    <comment><commentID>1542053036952</commentID><username>melker</username><rating>5</rating><text>testar här</text></comment></commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Trattkantarellsoppa</title>
+    <preptime>10</preptime>
+    <cooktime>20</cooktime>
+    <totaltime>70</totaltime>
+    <url>trattkantarellsoppa</url>
+    <imageurl>https://img.koket.se/media/trattkantarellsoppa.jpg</imageurl>
+    <description>Traditionell trattkantarellsoppa som är riktigt gräddig och god.</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <commentID>10</commentID>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <commentID>11</commentID>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <commentID>12</commentID>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Per Morbergs västerbottenpaj</title>
+    <preptime>45</preptime>
+    <cooktime>25</cooktime>
+    <totaltime>70</totaltime>
+    <url>per-morbergs-vasterbottenpaj</url>
+    <imageurl>https://img.koket.se/media/per-morbergs-vasterbottenpaj.jpg</imageurl>
+    <description>Per Morbergs recept på västerbottenpaj, en smakrik paj med västerbottensost. Recept från Morberg lagar husmanskost. Den här västebottenpajen är alltid rätt. Dock vågar jag påstå att den åtta gånger av tio står på bordet i augusti – när det serveras kräftor./Per Morberg</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Köttbullar, Pelle Johanssons recept</title>
+    <preptime>45</preptime>
+    <cooktime>25</cooktime>
+    <totaltime>70</totaltime>
+    <url>kottbullar-pelle-johanssons-recept</url>
+    <imageurl>https://img.koket.se/media/kottbullar-pelle-johanssons-recept2.jpg</imageurl>
+    <description>Hela världen gillar goda köttbullar och i Sverige vill vi ha köttbullarna som här, med kryddpeppar och nejlikor. Servera gärna med klassisk gräddsås, pressgurka, potatispuré och lingon. Épice riche är Tore Wretmans variant på den klassiska kryddblandningen fyra kryddor och innehåller muskot, vitpeppar,kryddpeppar, kryddnejlika.</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Pannkakor, grundrecept</title>
+    <preptime>5</preptime>
+    <cooktime>10</cooktime>
+    <totaltime>70</totaltime>
+    <url>pannkakor-grundrecept</url>
+    <imageurl>https://img.koket.se/media/pannkakor-recept-recept-nu.jpg</imageurl>
+    <description>Pannkakor är ju barnsligt gott! Linda Lomelinos recept på pannkakor är beräknat till 2 personer.</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Annas saftiga lussebullar med kesella</title>
+    <preptime>50</preptime>
+    <cooktime>30</cooktime>
+    <totaltime>70</totaltime>
+    <url>annas-saftiga-lussebullar-med-kesella</url>
+    <imageurl>https://img.koket.se/media/annas-saftiga-lussebullar-med-kesella.jpg</imageurl>
+    <description>Vårt mest populära recept på lussebullar med kesella i degen. Ger saftiga och hållbara lussebullar!</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Kokt torsk med äggsås</title>
+    <preptime>5</preptime>
+    <cooktime>20</cooktime>
+    <totaltime>70</totaltime>
+    <url>kokt-torsk-med-aggsas</url>
+    <imageurl>https://img.koket.se/media/kokt-torsk-med-aggsas.jpg</imageurl>
+    <description>Kokt torsk med äggsås, ett snabblagat middagsrecept med fisk som passar lika bra till vardags som till söndagsmiddagen.</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+
+  <recipe>
+    <title>Ugnsrostade rödbetor med getostkräm</title>
+    <preptime>15</preptime>
+    <cooktime>15</cooktime>
+    <totaltime>70</totaltime>
+    <url>ugnsrostade-rodbetor-med-getostkram</url>
+    <imageurl>https://img.koket.se/desktopx2/ugnsrostade-rodbetor-med-getostkram.jpg</imageurl>
+    <description>Matig och lättlagad sallad på linser serverad med ugnsbakade rödbetor och chèvrekräm. </description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+
+  <recipe>
+    <title>Mannerströms pannbiff med lök</title>
+    <preptime>15</preptime>
+    <cooktime>15</cooktime>
+    <totaltime>70</totaltime>
+    <url>mannerstroms-pannbiff-med-lok</url>
+    <imageurl>https://img.koket.se/media/mannerstoms-pannbiff-med-lok.jpg</imageurl>
+    <description>Klassisk svensk pannbiff enligt Leif Mannerströms recept.Serveras med potatis och pressgurka. Ja, vad ska man säga om denna rätt, lika ursvensk som köttbullar? Jag kan ju än en gång påminna om att köttfärs är den absolut bästa råvaran i det svenska köket.</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <title>Älgfärsbiffar med mandelpotatis</title>
+    <preptime>25</preptime>
+    <cooktime>15</cooktime>
+    <totaltime>70</totaltime>
+    <url>algfarsbiffar-med-mandelpotatis</url>
+    <imageurl>https://img.koket.se/media/algfarsbiffar-med-mandelpotatis.jpg</imageurl>
+    <description>Både barn och vuxna älskar köttbullar i gräddsås med potatis och lingon. Den feta vispgrädden är bra för den lite torra älgfärsen./Per - Receptet är hämtat ur Morberg jagar och lagar.</description>
+    <category>Traditionellt</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Med färsk svamp: Lägg undan några av de vackraste trattkantarellerna till garnering och skär de andra i bitar. Finhacka lök och vitlök och låt steka med kantarellerna i smör i en kastrull. Fräs tills vätskan har kokat in, cirka 5 minuter.</instruction>
+      <instruction>Pudra över mjölet och rör om så att det blandas med svampen och löken. Slå på vatten och grädde under omrörning. Smula i buljongtärningarna och låt det hela sakta koka i 10 minuter.</instruction>
+      <instruction>Salta och peppra och tillsätt vinägern, som hjälper till att ta fram den fina svampsmaken. Häll till sist i sherryn.</instruction>
+      <instruction>Hetta upp de hela trattkantarellerna i lite smör och lägg ner dem i soppan. Garnera med lite hackad persilja och/eller gräslök.</instruction>
+      <instruction>Soppan blir slätare om den körs i matberedare eller i mixer. Kör svampen med hälften av vätskan någon minut. Häll sedan i resten av vätskan och låt soppan koka upp.</instruction>
+      <instruction>Med torkad svamp: Smula ner den torkade svampen i en skål och häll över en del av vattnet så att svampen täcks. Låt den stå och svälla i cirka 30 min. Sila av spadet och spara det. Använd det tillsammans med buljongen (totalt 1 liter) när soppan ska spädas. Tillaga sedan soppan som ovan.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>300 g färska rensade trattkantareller (eller 25 g torkade)</ingredient>
+      <ingredient>3 schalottenlökar</ingredient>
+      <ingredient>1 vitlöksklyfta</ingredient>
+      <ingredient>2 msk smör</ingredient>
+      <ingredient>1 msk vetemjöl</ingredient>
+      <ingredient>1 l vatten</ingredient>
+      <ingredient>2 tärningar grönsaksbuljong</ingredient>
+      <ingredient>3 dl mellangrädde eller vispgrädde</ingredient>
+      <ingredient>2 krm salt</ingredient>
+      <ingredient>1 krm vitpeppar</ingredient>
+      <ingredient>1 tsk vitvinsvinäger</ingredient>
+      <ingredient>0,75 dl torr sherry</ingredient>
+      <ingredient>1 dl persilja och/eller gräslök till garnering</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    <comment><commentID>1542301534201</commentID><username>melker</username><rating>5</rating><text>Nu testar jag att skriva ett fint recept</text></comment></commentlist>
+  </recipe>
+
+</recipes>

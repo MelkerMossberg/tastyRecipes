@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+  <recipe>
+    <id>1</id>
+    <title>Vegansk shakshuka med scrambled tofu</title>
+    <preptime>20</preptime>
+    <cooktime>50</cooktime>
+    <imageurl>https://img.koket.se/desktop/vegansk-shakshuka-med-scrambled-tofu.jpg</imageurl>
+    <description>Shakshuka är en traditionell frukost/brunch i framför allt Israel men också i Nordafrika. Det här är min version utan animalier. /SebastianReceptet är ur boken Vegansk snabbmat - streetfood för alla av Sebastian Schauermann, Norstedts.
+    </description>
+    <category>Judisk-Japansk Fusion</category>
+    <rating>4/5</rating>
+    <instructionList>
+      <instruction>Värm ugnen till 180 grader, varmluft.</instruction>
+      <instruction>Fräs kycklingen på medelvärme tills den får lite färg runtom i cirka 5 minuter. Salta och peppra.</instruction>
+      <instruction>Lägg över i en ugnsform.Strimla de soltorkade tomaterna.</instruction>
+      <instruction>Skala och finhacka vitlöken. Finhacka chilin.</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>1 gul lök, hackad 1 klyfta vitlök</ingredient>
+      <ingredient>hackad 300 g paprika, tärnad i olika färger</ingredient>
+      <ingredient>1 tsk torkad chipotle</ingredient>
+      <ingredient>1 tsk malen spiskummin</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <commentID>1</commentID>
+        <username>Testare 1</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <commentID>2</commentID>
+        <username>Testare 2</username>
+        <rating>22</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <commentID>3</commentID>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    <comment><commentID>1542036672034</commentID><username>test1</username><rating>5</rating><text>testar att skriva en kommentar</text></comment></commentlist>
+  </recipe>
+
+  <recipe>
+    <id>2</id>
+    <title>Recept 2</title>
+    <preptime>10</preptime>
+    <cooktime>20</cooktime>
+    <imageurl>https://img.koket.se/desktopx2/vegoburgare-med-potatisklyftor-och-srirachamajonnas.jpg</imageurl>
+    <description>Shakshuka är en traditionell frukost/brunch i framför allt Israel men också i Nordafrika. Det här är min version utan animalier. /SebastianReceptet är ur boken Vegansk snabbmat - streetfood för alla av Sebastian Schauermann, Norstedts.
+    </description>
+    <category>Kategori</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Instruktion 1</instruction>
+      <instruction>Instruktion 2</instruction>
+      <instruction>Instruktion 3</instruction>
+      <instruction>Instruktion 4</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>Ingrediens 1</ingredient>
+      <ingredient>Ingrediens 2</ingredient>
+      <ingredient>Ingrediens 3</ingredient>
+      <ingredient>Ingrediens 4</ingredient>
+    </ingredientlist>
+    <commentlist>
+      <comment>
+        <username>Testare 13</username>
+        <rating>11</rating>
+        <text>Jag tycker lite text om detta receptet</text>
+      </comment>
+      <comment>
+        <username>Testare 32</username>
+        <rating>23</rating>
+        <text>Lorem ipsum odlor sit amet</text>
+      </comment>
+      <comment>
+        <username>Testare 3</username>
+        <rating>33</rating>
+        <text>Mmmmmm, Jag tycker om detta receptet</text>
+      </comment>
+    </commentlist>
+  </recipe>
+
+  <recipe>
+    <id>3</id>
+    <title>Recept 3</title>
+    <preptime>50</preptime>
+    <cooktime>60</cooktime>
+    <imageurl>https://img.koket.se/desktopx2/vegoburgare-med-potatisklyftor-och-srirachamajonnas.jpg</imageurl>
+    <description>Shakshuka är en traditionell frukost/brunch i framför allt Israel men också i Nordafrika. Det här är min version utan animalier. /SebastianReceptet är ur boken Vegansk snabbmat - streetfood för alla av Sebastian Schauermann, Norstedts.
+    </description>
+    <category>Kategori</category>
+    <rating>5/5</rating>
+    <instructionList>
+      <instruction>Instruktion 1</instruction>
+      <instruction>Instruktion 2</instruction>
+      <instruction>Instruktion 3</instruction>
+      <instruction>Instruktion 4</instruction>
+    </instructionList>
+    <ingredientlist>
+      <ingredient>Ingrediens 1</ingredient>
+      <ingredient>Ingrediens 2</ingredient>
+      <ingredient>Ingrediens 3</ingredient>
+      <ingredient>Ingrediens 4</ingredient>
+    </ingredientlist>
+  </recipe>
+</recipes>
